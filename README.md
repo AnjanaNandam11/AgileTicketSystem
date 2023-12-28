@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Agile Ticketing System - INFO 6215 - Northeastern University 
 </h1>
 

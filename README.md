@@ -1,4 +1,5 @@
 <h1 align="center">
+  Agile Ticketing System - INFO 6215 - Northeastern University 
 </h1>
 
 #### Fast, Clean, Responsive, Multilanguage, Email Syncing, Subdomain support, etc.
